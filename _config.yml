@@ -1,0 +1,12 @@
+title: Humilitas et Fides
+description: Writing by Jonathan Phillips
+baseurl: "/humilitas-et-fides"
+url: "https://njrenaissance.github.io"
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+markdown: kramdown
+exclude:
+  - README.md
+  - drafts/
